@@ -174,4 +174,7 @@ cython_debug/
 .pypirc
 
 # Folders
-/data
+# /data
+
+# Mac
+.DS_Store
